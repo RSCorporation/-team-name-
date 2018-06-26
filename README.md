@@ -1,1 +1,1 @@
-# -team-name-
+Always read tasklists in projects before doing something!
